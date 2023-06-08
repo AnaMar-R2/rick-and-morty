@@ -1,0 +1,38 @@
+.location{
+    background-color: #062226;
+    max-width: 500px;
+    margin: 0 auto;
+    border-radius: 0.5em;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    box-shadow: 2px 2px 10px 3px #00000088;
+}
+.location__name{
+    color: rgba(115, 207, 35);
+}
+.location__items{
+    display: flex;
+    gap: 3.5em;
+}
+.location__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+}
+.location__label{
+    font-weight: 600;
+}
+.location__info{
+    font-weight: 200;
+    color: #e0e0e0;
+}
+
+
+
+

@@ -1,0 +1,23 @@
+.app{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.app__title-container{
+    width: 100%;
+    height: max-content ;
+    max-height: 350px;
+}
+.resident-container{
+    padding: 2em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3em;
+}
+
+
+
+
+
+

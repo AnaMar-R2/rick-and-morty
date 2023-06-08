@@ -1,0 +1,25 @@
+.error{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 400px;
+    background-image: url(../rick-relax.webp);
+    background-position: bottom;
+    box-shadow: 0 0 30px 15px  #262d3a;
+    padding-left: 5em;
+}
+.error__h2-container{
+    width: 70%;
+}
+.error__h2{
+    text-align: center;
+}
+.error__img-container{
+    background-color: aqua;
+    width: 250px;
+    height: 100%;
+}
+.error__img{
+    margin: 0 auto;
+    width: 700px;
+}
